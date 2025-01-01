@@ -57,3 +57,9 @@
 ![alternatif metin](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi/blob/main/Teknoloji_Tarihi2.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DERS PLANI -->
+
+
+
+
