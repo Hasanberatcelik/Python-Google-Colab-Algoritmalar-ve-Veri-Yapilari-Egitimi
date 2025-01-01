@@ -66,3 +66,4 @@
 
 #### 1.1. Eğitim İçeriği    
 
+#### 1.2. Eğitmen Hakkında    
