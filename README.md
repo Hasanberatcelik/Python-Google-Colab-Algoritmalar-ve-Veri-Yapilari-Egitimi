@@ -108,7 +108,7 @@
 
 #### 3.5. Google Colab üzerinde uygulama – 2   
 
-## Ders 4.-> [Programlama Dilinde Operatör Kavramı ve İşlemler](https://github.com/acetinkaya/VeriYapilari-ders4?tab=readme-ov-file#ders-4-programlama-dilinde-veri-t%C3%BCrleri-ve-operat%C3%B6rler)
+## Ders 4. [Programlama Dilinde Operatör Kavramı ve İşlemler](https://github.com/acetinkaya/VeriYapilari-ders4?tab=readme-ov-file#ders-4-programlama-dilinde-veri-t%C3%BCrleri-ve-operat%C3%B6rler)
 
 #### 4.1. Veri Türleri  
 
