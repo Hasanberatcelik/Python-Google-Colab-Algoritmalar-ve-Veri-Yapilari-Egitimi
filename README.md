@@ -71,3 +71,5 @@
 #### 1.3. Eğitim Ders Notları ve Proje Alt Yapısı       
 
 #### 1.4. Yazılım Geliştirmede Veri Yapıları ve Algoritmalar Dersinin Kapsamı ve Önemi    
+
+#### 1.5. Yazılım Sektöründe Platform Kullanımının Önemi Google, Colab, GitHub & LinkedIn          
