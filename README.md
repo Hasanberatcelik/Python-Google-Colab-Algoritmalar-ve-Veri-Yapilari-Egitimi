@@ -118,6 +118,6 @@
 
 ## Ders 5. [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
 
-## Ders 6. Akış Diyagramları    
+## Ders 6. [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)    
 
 
