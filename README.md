@@ -72,4 +72,7 @@
 
 #### 1.4. Yazılım Geliştirmede Veri Yapıları ve Algoritmalar Dersinin Kapsamı ve Önemi    
 
-#### 1.5. Yazılım Sektöründe Platform Kullanımının Önemi Google, Colab, GitHub & LinkedIn          
+#### 1.5. Yazılım Sektöründe Platform Kullanımının Önemi Google, Colab, GitHub & LinkedIn     
+
+#### 1.6. Algoritma ve Yazılım Geliştirme Alanlarında Tarihi Gelişimler ve Dönüm Noktaları   
+
