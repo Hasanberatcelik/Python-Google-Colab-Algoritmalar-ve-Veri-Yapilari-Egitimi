@@ -18,4 +18,4 @@
 
 ## Sanayinin yazılımcı ihtiyacı giderek artıyor... Peki çözüm ne olmalı?
 
-## Yazılımda inovasyonun başarısı, sürdürülebilirlikte saklıdır.
+## Yazılımda inovasyonun başarısı, sürdürülebilirlikte saklıdır. Bunun için;
