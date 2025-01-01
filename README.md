@@ -60,6 +60,7 @@
 
 ## DERS PLANI -->
 
+### DERS 0. Eğitim Tanıtımı
 
 
 
