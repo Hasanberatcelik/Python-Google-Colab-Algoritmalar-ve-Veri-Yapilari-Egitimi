@@ -40,5 +40,6 @@
 ### 1. Açık Kaynak Geliştiriciliğin Önemi:
     * Algoritma geliştirme süreçlerinde açık kaynak ekosisteminin önemini anlama ve bu ekosistemde aktif bir rol oynama bilinci.
 
+Gerçek Veriyle Çalışma ve Problem Çözme:
 
 
