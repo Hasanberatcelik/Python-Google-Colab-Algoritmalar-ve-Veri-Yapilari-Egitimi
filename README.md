@@ -14,4 +14,4 @@
 
 ## Yazılımın geleceği, ekosistemlerde şekilleniyor.
 
-## Sanayinin yazılımcı ihtiyacı giderek artıyor... 
+## Sanayinin yazılımcı ihtiyacı giderek artıyor... Peki çözüm ne olmalı?
