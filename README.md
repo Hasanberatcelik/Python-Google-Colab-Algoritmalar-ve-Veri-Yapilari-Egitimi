@@ -50,4 +50,4 @@
 
 ## Tablo 1. Yazılım, algoritma, programlama, robotik ve yapay zeka alanındaki tarihi teknoloji gelişimlerin listesi (Kaynaklar aşağıda belirtilmiştir.)
 
-## El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmaları nedeniyle bilimde algoritmaların mucidi olarak geçmektedir. 
+## El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmaları nedeniyle bilimde algoritmaların mucidi olarak geçmektedir. Algoritma ismi Harzemlinin isminden türetilmiştir. Matematik üzerinede önemli katkıları olan Harzemli cebirinde kurucusudur. Cebir kitabında denklem kurulması ve kareköklü ifadelerin çözümünü ve algoritmasını ele almıştır. 
