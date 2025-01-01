@@ -112,6 +112,8 @@
 
 #### 4.1. Veri Türleri  
 
+#### 4.1.1. Integer (int) Veri Türü  
+
 
 
 
