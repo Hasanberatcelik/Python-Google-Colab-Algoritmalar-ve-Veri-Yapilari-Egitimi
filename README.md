@@ -93,3 +93,6 @@
 #### 2.5. Google Colab  1-2
 
 #### 2.6. Github 1-2-3      
+
+#### 2.7. linkedin      
+
