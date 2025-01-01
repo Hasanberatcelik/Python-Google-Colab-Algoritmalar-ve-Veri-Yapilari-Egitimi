@@ -50,3 +50,4 @@
 
 ## Tablo 1. Yazılım, algoritma, programlama, robotik ve yapay zeka alanındaki tarihi teknoloji gelişimlerin listesi (Kaynaklar aşağıda belirtilmiştir.)
 
+## El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmaları nedeniyle bilimde algoritmaların mucidi olarak geçmektedir. 
