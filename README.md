@@ -82,3 +82,4 @@
 
 ## DERS 2. Kurulumlar ve Hazırlıklar    
 
+2.1. [Google Ekosistemi](https://github.com/acetinkaya/GoogleEkosistemi)       
