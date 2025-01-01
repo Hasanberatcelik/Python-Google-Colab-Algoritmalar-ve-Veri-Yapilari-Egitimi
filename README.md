@@ -80,3 +80,5 @@
 
 #### 1.8. Eğitime Nasıl Çalışmalıyız ve Ne kadar Zaman Ayırmalıyız?	      
 
+## DERS 2. Kurulumlar ve Hazırlıklar    
+
