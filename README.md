@@ -23,3 +23,4 @@
     2. Geliştirilen algoritmaların sisteme entegre edilebilir olması gereklidir.
     3. Fikri mülkiyet haklarınızı (TPMK Fikri ve Sınai Mülkiyet Hakları) almak ve korumak, sürdürülebilir başarı için önemlidir.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
