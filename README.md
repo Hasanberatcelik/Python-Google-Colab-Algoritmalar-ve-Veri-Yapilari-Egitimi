@@ -31,7 +31,7 @@
     * Teorik bilgiyle sınırlı kalmış yazılım becerilerini, güncel ekosistemler ile pratik uygulamalar geliştirmek.
 
 ### 2. Algoritma Odaklı Yaklaşım:
-    * Klasik konu anlatımının ötesine geçerek, 
+    * Klasik konu anlatımının ötesine geçerek, uygulama odaklı bir eğitim sunmak,
 
 
 
