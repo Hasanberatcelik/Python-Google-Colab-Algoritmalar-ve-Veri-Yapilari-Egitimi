@@ -106,3 +106,4 @@
 
 #### 3.4. Google Colab üzerinde uygulama - 1    
 
+#### 3.5. Google Colab üzerinde uygulama – 2   
