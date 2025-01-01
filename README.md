@@ -20,4 +20,5 @@
 
 ## Yazılımda inovasyonun başarısı, sürdürülebilirlikte saklıdır. Bunun için;
     1. Algoritma geliştirmeyi yaşamınızın merkezine koymak kritik bir öneme sahiptir.
+    2. Geliştirilen algoritmaların sisteme entegre edilebilir olması gereklidir.
 
