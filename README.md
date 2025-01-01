@@ -98,6 +98,8 @@
 
 ## DERS 3.-> Python Programlama Dilindeki Değişkenler ve Veri Türleri    
 
-#### 3.1. Google Colab Platform İşlemleri    
+#### 3.1. Google Colab Platform İşlemleri  
+
+#### 3.2. Değişkenler ve Veri Türlerine Giriş    
 
 
