@@ -88,7 +88,8 @@
 
 #### 2.3. Google Colab, Google Drive ve Github Ayarları	       
 
-#### 2.4. Google Drive     
+#### 2.4. Google Drive   
 
-#### 2.5. Google Colab    
+#### 2.5. Google Colab  
 
+#### 2.6. Github 1-2-3      
