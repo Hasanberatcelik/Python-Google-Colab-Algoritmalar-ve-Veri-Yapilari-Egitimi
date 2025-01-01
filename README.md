@@ -13,3 +13,5 @@
 ## Teknoloji, yazılım ve algoritma geliştirmeyi her yaştan ve her meslekten insan öğrenmeli!
 
 ## Yazılımın geleceği, ekosistemlerde şekilleniyor.
+
+## Sanayinin yazılımcı 
