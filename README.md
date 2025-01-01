@@ -77,3 +77,6 @@
 #### 1.6. Algoritma ve Yazılım Geliştirme Alanlarında Tarihi Gelişimler ve Dönüm Noktaları   
 
 #### 1.7. Peki Neden Python Programlama Dili?       
+
+#### 1.8. Eğitime Nasıl Çalışmalıyız ve Ne kadar Zaman Ayırmalıyız?	      
+
