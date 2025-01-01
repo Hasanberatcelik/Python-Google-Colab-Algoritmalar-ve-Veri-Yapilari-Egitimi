@@ -90,6 +90,6 @@
 
 #### 2.4. Google Drive  1-2
 
-#### 2.5. Google Colab  
+#### 2.5. Google Colab  1-2
 
 #### 2.6. Github 1-2-3      
