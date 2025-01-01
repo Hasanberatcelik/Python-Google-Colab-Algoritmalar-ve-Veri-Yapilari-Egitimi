@@ -96,3 +96,4 @@
 
 #### 2.7. linkedin      
 
+## DERS 3.-> Python Programlama Dilindeki Değişkenler ve Veri Türleri    
