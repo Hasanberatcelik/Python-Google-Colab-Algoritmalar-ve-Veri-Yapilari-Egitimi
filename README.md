@@ -69,3 +69,5 @@
 #### 1.2. Eğitmen Hakkında    
 
 #### 1.3. Eğitim Ders Notları ve Proje Alt Yapısı       
+
+#### 1.4. Yazılım Geliştirmede Veri Yapıları ve Algoritmalar Dersinin Kapsamı ve Önemi    
