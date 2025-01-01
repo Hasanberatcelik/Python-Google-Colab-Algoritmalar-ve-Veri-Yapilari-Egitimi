@@ -62,5 +62,6 @@
 
 ### DERS 0. Eğitim Tanıtımı
 
+### DERS 1. Giriş
 
 
