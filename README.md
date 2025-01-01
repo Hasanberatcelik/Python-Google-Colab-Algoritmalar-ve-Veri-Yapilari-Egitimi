@@ -116,6 +116,8 @@
 
 #### 4.1.2. Float (float) Veri Türü  
 
+## Ders 5. [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
 
+## Ders 6. Akış Diyagramları    
 
 
