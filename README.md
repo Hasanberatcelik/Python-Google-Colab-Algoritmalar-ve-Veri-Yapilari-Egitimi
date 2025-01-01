@@ -102,4 +102,5 @@
 
 #### 3.2. Değişkenler ve Veri Türlerine Giriş    
 
+#### 3.3. Python Veri Tipleri ve Python Fonksiyonları  
 
