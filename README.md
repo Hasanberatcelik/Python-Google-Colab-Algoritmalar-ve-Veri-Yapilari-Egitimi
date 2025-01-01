@@ -46,5 +46,6 @@
 ### 3. Veri ile Çalışarak Veriyi Tanıma ve Problem Çözme:
     * Algoritma geliştirme süreçlerinde Türkçe verilerin işlenmesinin önemini kavrama ve bu verilerle etkili çalışabilme becerisi.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
