@@ -29,6 +29,9 @@
     * Yazılım geliştirme alanında temel farkındalık oluşturmak,
     * Eğitim sürecinde sıfırdan ileri seviyeye geçiş yapmalarını sağlamak,
     * Teorik bilgiyle sınırlı kalmış yazılım becerilerini, güncel ekosistemler ile pratik uygulamalar geliştirmek.
-Algoritma Odaklı Yaklaşım:
+
+### 2. Algoritma Odaklı Yaklaşım:
+
+
 
 
