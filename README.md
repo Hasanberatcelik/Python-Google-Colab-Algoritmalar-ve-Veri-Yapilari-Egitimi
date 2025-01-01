@@ -114,6 +114,7 @@
 
 #### 4.1.1. Integer (int) Veri Türü  
 
+#### 4.1.2. Float (float) Veri Türü  
 
 
 
