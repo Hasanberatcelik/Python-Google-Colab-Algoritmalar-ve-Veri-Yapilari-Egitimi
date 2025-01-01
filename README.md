@@ -67,3 +67,5 @@
 #### 1.1. Eğitim İçeriği    
 
 #### 1.2. Eğitmen Hakkında    
+
+#### 1.3. Eğitim Ders Notları ve Proje Alt Yapısı       
