@@ -104,3 +104,5 @@
 
 #### 3.3. Python Veri Tipleri ve Python Fonksiyonları  
 
+#### 3.4. Google Colab üzerinde uygulama - 1    
+
