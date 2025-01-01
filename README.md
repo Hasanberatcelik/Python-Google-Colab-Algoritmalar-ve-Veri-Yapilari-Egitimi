@@ -107,3 +107,5 @@
 #### 3.4. Google Colab üzerinde uygulama - 1    
 
 #### 3.5. Google Colab üzerinde uygulama – 2   
+
+## Ders 4.-> Programlama Dilinde Operatör Kavramı ve İşlemler
