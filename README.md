@@ -32,6 +32,7 @@
 
 ### 2. Algoritma Odaklı Yaklaşım:
     * Klasik konu anlatımının ötesine geçerek, uygulama odaklı bir eğitim sunmak,
+ tabanlı algoritmalar geliştirmeye teşvik etmek.
 
 
 
