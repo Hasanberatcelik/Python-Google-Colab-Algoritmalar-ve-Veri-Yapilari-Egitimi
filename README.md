@@ -250,4 +250,5 @@
 
 8. Prof. Dr. Çetin ELMAS, "Yapay Zeka Uygulamaları", Seçkin Yayıncılık, İstanbul, 2021. 
 
+9. Prof. Dr. Şadi Evren ŞEKER, "Algoritmalar", Nobel Akademik Yayıncılık, Ankara, 2021.
 
