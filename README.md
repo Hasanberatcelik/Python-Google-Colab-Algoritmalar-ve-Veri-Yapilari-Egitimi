@@ -128,3 +128,4 @@
 
 ## Ders 10. Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri   
 
+## Ders 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
