@@ -253,3 +253,10 @@
 9. Prof. Dr. Şadi Evren ŞEKER, "Algoritmalar", Nobel Akademik Yayıncılık, Ankara, 2021.
 
 10. Prof. Dr. Eşref ADALI, "Bilişim Etiği ve Hukuku", İTÜ Ulusal Yazılım ve Sertifikasyon Merkezi, İstanbul, 2017.
+
+11. Doç. Dr. Yılmaz KAYA, "Python ile Veri YAPILARI ve ALGORİTMA ANALİZİ", Nobel Yayınevi, Ankara, 2023.
+
+12. Dr. Atınç YILMAZ, Öğr. Gör. Umut KAYA, "Derin Öğrenme", KODLAB Yayıncılık, İstanbul, 2022.
+
+13. Dr. Yalçın ÖZKAN, "Uygulamalı Derin Öğrenme", Papatya Bilim Yayıncılık, İstanbul, 2021. 
+
