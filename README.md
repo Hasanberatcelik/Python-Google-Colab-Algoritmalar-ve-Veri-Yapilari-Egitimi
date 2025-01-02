@@ -126,3 +126,5 @@
 
 ## Ders 9. Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri   
 
+## Ders 10. Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri   
+
