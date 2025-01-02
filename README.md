@@ -148,3 +148,4 @@
 
 ## Ders 19. Dinamik Programlama
 
+## Ders 20. Hash Tabloları ve Hash Fonksiyonları
