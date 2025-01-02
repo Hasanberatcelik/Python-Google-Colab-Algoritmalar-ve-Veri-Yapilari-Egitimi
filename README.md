@@ -261,3 +261,22 @@
 13. Dr. Yalçın ÖZKAN, "Uygulamalı Derin Öğrenme", Papatya Bilim Yayıncılık, İstanbul, 2021. 
 
 14. Dr. Andriy BURKOV, "The hundred-page machine learning" book (Vol. 1, p. 32). Quebec City, QC, Canada: Andriy Burkov, 2019. 
+
+15. Dr. Öğr. Üyesi Fahri VATANSEVER, "Algoritma Geliştirme ve Programlamaya Giriş", Seçkin Yayınları, Ankara, 2009.
+
+16. Dr. Öğr. Üyesi Selçuk ALP & Arzu KİLİTCİ, "Algoritmalar ve Programlamaya Giriş", Umuttepe Yayınları, Kocaeli, 2015.
+
+17. Dr. Öğr. Üyesi Ebubekir YAŞAR, "Algoritma Ve Programlamaya Giriş", Ekin Basım Yayın, Bursa, 2015.
+
+18. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
+
+19. Öğr. Gör. Tuğba SARAY ÇETİNKAYA & Öğr. Gör. Ali ÇETİNKAYA, Algorithm Design in Programming Language Education - Özgür Yayınları, Gaziantep, 2023.
+
+
+
+
+
+
+
+
+
