@@ -272,6 +272,7 @@
 
 19. Öğr. Gör. Tuğba SARAY ÇETİNKAYA & Öğr. Gör. Ali ÇETİNKAYA, Algorithm Design in Programming Language Education - Özgür Yayınları, Gaziantep, 2023.
 
+20. Öğr. Gör. Ali ÇETİNKAYA, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi, İzmir, 2022.
 
 
 
