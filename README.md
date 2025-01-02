@@ -252,3 +252,4 @@
 
 9. Prof. Dr. Şadi Evren ŞEKER, "Algoritmalar", Nobel Akademik Yayıncılık, Ankara, 2021.
 
+10. Prof. Dr. Eşref ADALI, "Bilişim Etiği ve Hukuku", İTÜ Ulusal Yazılım ve Sertifikasyon Merkezi, İstanbul, 2017.
