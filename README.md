@@ -218,5 +218,11 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Hz. Mevlana'nın sözüyle eğitim serimize başlıyoruz. 
 
+    Mum olmak kolay değildir !! 
+    Işık saçmak için önce yanmak gerekir.
+                              Hz. Mevlana
+
+## Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye) - 2025
 
