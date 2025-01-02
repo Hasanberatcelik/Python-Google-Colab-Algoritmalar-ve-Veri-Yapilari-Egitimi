@@ -313,6 +313,7 @@
 26.	Topdemir, H. G. (2022). Takiyüddin İbn Ma'ruf. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 524.
 27.	LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
 28.	Vacroux, A. G. (1975). Microcomputers. Scientific American, 232(5), 32-41.
+29.	Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). Imagenet: A large-scale hierarchical image database. In 2009 IEEE conference on computer vision and pattern recognition (pp. 248-255). Ieee.
 30.	Çırak, B., & Yörük, A. (2016). Mekatronik biliminin öncüsü İsmail El-Cezeri. Siirt Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, (4), 175-194.
 31.	Kato, I., Ohteru, S., Shirai, K., Matsushima, T., Narita, S., Sugano, S., ... & Fujisawa, E. (1987). The robot musician ‘wabot-2’(waseda robot-2). Robotics, 3(2), 143-155.
 32.	Spenko, M., Buerger, S., & Iagnemma, K. (Eds.). (2018). The DARPA robotics challenge finals: humanoid robots to the rescue (Vol. 121). Springer.
