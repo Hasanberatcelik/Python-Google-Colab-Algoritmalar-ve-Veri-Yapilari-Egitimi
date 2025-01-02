@@ -149,3 +149,6 @@
 ## Ders 19. Dinamik Programlama
 
 ## Ders 20. Hash Tabloları ve Hash Fonksiyonları
+
+## Ders 21. Python’da Yerleşik Veri Koleksiyonları ve Özel Yapılar
+
