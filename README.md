@@ -132,3 +132,5 @@
 
 ## Ders 12. Python Programlama Dili üzerinde Dosya İşlemleri     
 
+########### 2. Kısım ###########   
+
