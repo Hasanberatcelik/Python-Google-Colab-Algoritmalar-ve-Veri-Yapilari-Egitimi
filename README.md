@@ -150,9 +150,16 @@
         #### Microsoft Visio    
         #### Diagrams.net   
 
-####6.2. Akış Diyagramı Çizim Uygulamasının Gerçekleştirilmesi  
+#### 6.2. Akış Diyagramı Çizim Uygulamasının Gerçekleştirilmesi  
 
 ## Ders 7. Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
+
+#### 7.1. Sıralı, Koşullu ve Tekrarlı Yapılar  
+
+7.2. Python Programlama Dili Üzerinde Sıralı Yapılar  
+7.3. Python Programlama Dili Üzerinde Koşul Yapıları   
+7.4. Python Programlama Dili Üzerinde Döngü Yapıları  
+7.5. Python Programlama Dili Üzerinde Sıralı, Koşul & Döngü Örnekleri   
 
 ## Ders 8. Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi   
 
