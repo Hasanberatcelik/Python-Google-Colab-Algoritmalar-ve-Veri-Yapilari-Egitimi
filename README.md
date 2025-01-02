@@ -129,3 +129,6 @@
 ## Ders 10. Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri   
 
 ## Ders 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
+
+## Ders 12. Python Programlama Dili üzerinde Dosya İşlemleri     
+
