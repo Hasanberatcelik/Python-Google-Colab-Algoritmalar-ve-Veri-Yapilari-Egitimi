@@ -247,3 +247,7 @@
 7. Prof. Dr. Vasıf NABİYEV, "Teoriden Uygulamalara Algoritmalar", Seçkin Yayınları, Ankara, 2011.
 
 7. Prof. Dr. Ercan Nurcan YILMAZ & Dr. Öğr. Üyesi Serkan GÖNEN, "Örneklerle Uygulamalı C ve C++ - 2023", İstanbul Gelişim Üniversitesi Yayınları, İstanbul, 2023.
+
+8. Prof. Dr. Çetin ELMAS, "Yapay Zeka Uygulamaları", Seçkin Yayıncılık, İstanbul, 2021. 
+
+
