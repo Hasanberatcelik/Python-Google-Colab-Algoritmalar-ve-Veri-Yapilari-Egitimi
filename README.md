@@ -274,9 +274,14 @@
 
 20. Öğr. Gör. Ali ÇETİNKAYA, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi, İzmir, 2022.
 
+21. Öğr. Gör. Ali ÇETİNKAYA, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing, Ankara, 2023.
 
+22. Öğr. Gör. Ali ÇETİNKAYA’nın internet sayfaları: 
 
-
+        https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
+        https://avesis.gelisim.edu.tr/alcetinkaya
+        https://github.com/acetinkaya/
+        https://alicetinkaya.site/    
 
 
 
