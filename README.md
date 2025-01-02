@@ -228,7 +228,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Bu Çalışmayı Oluşturulması İçin Kullanılan Referans Kaynaklar: 
+# Bu Çalışmayı Oluşturulması İçin Kullanılan Referans Kaynaklar: 
+
+## NOT: Bu kitaplar ülkemizin algoritma, veri yapıları, programlama ve yapay zeka alanında ortaya çıkardığı çalışmalardan önemli kaynaklardır. Her yazılımcının, mezun ve / veye öğrencilerinin mutlaka kütüphanelerinde olması gereken kitaplardır.  
 
 
 
