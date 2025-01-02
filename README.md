@@ -242,4 +242,8 @@
 
 4. Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi", Seçkin Yayınları, Ankara, 2021.
 
-5. Prof. Dr. Ali OKATAN, Tamer KARATEKİN, Dr. Kağan OKATAN, "100 Sayfada Makine Öğrenmesi Kitabı", Papatya Bilim Yayıncılık, İstanbul, 2020. 
+5. Prof. Dr. Ali OKATAN, Tamer KARATEKİN, Dr. Kağan OKATAN, "100 Sayfada Makine Öğrenmesi Kitabı", Papatya Bilim Yayıncılık, İstanbul, 2020.
+  
+7. Prof. Dr. Vasıf NABİYEV, "Teoriden Uygulamalara Algoritmalar", Seçkin Yayınları, Ankara, 2011.
+
+7. Prof. Dr. Ercan Nurcan YILMAZ & Dr. Öğr. Üyesi Serkan GÖNEN, "Örneklerle Uygulamalı C ve C++ - 2023", İstanbul Gelişim Üniversitesi Yayınları, İstanbul, 2023.
