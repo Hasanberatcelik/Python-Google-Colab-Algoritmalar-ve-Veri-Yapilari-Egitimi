@@ -96,7 +96,7 @@
 
 #### 2.7. linkedin      
 
-## DERS 3.-> Python Programlama Dilindeki Değişkenler ve Veri Türleri    
+## DERS 3. Python Programlama Dilindeki Değişkenler ve Veri Türleri    
 
 #### 3.1. Google Colab Platform İşlemleri  
 
@@ -120,4 +120,5 @@
 
 ## Ders 6. [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)    
 
+## Ders 7. Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
 
