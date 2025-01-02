@@ -122,3 +122,4 @@
 
 ## Ders 7. Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
 
+## Ders 8. Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi   
