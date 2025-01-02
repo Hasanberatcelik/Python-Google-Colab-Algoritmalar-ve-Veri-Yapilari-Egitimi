@@ -170,8 +170,9 @@
 
 #### 9.1. Python Programlama Dili Üzerinde Liste - Dizi Yapısı ve İşlemleri   
 
-9.2. Python Programlama Dili Üzerinde Demet Yapısı ve İşlemleri    
-9.3. Python Programlama Dili Üzerinde Sözlük Yapısı ve İşlemleri  
+#### 9.2. Python Programlama Dili Üzerinde Demet Yapısı ve İşlemleri  
+
+#### 9.3. Python Programlama Dili Üzerinde Sözlük Yapısı ve İşlemleri  
 
 ## Ders 10. Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri   
 
