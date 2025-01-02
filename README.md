@@ -157,3 +157,5 @@
 ## Ders 23. Python’da Multithreading ve Paralel Programlama
 
 ## Ders 24. Python’da Veri Görselleştirme İşlemleri   
+
+## Ders 25. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
