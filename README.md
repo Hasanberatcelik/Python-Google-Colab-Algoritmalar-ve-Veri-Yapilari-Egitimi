@@ -153,3 +153,5 @@
 ## Ders 21. Python’da Yerleşik Veri Koleksiyonları ve Özel Yapılar
 
 ## Ders 22. Büyük O Notasyonu ve Algoritma Analizi
+
+## Ders 23. Python’da Multithreading ve Paralel Programlama
