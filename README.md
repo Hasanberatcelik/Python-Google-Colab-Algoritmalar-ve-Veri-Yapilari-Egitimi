@@ -211,3 +211,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye) - 2025
+
+![alternatif metin](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi/blob/main/Egitim-Kapagi.png)
+
+[Öğr. Gör. Ali ÇETİNKAYA - Ocak 2025](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) 
