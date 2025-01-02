@@ -119,14 +119,15 @@
 ## Ders 5. [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
 
 ## Ders 6. [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)
+6.1. Akış Diyagramı Nedir?    
 6.1.1. Akış diyagramlarının faydaları    
 6.1.2 Akış Diyagramında Kullanılan Çizimler    
 6.1.3 Akış Diyagramı Oluşturma Adımları    
-6.1.4 Akış Diyagramı Çizim Araçları 
-* Lucidchart 
-* Draw.io
-* Microsoft Visio 
-* Diagrams.net
+6.1.4 Akış Diyagramı Çizim Araçları   
+* Lucidchart    
+* Draw.io   
+* Microsoft Visio    
+* Diagrams.net    
 6.2. Akış Diyagramı Çizim Uygulamasının Gerçekleştirilmesi  
 ## Ders 7. Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
 
