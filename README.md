@@ -145,3 +145,6 @@
 ## Ders 17. Grafik Programlama
 
 ## Ders 18. Gelişmiş Veri Yapıları ve Uygulamalar
+
+## Ders 19. Dinamik Programlama
+
