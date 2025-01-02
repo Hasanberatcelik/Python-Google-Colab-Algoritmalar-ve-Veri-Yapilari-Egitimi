@@ -260,3 +260,4 @@
 
 13. Dr. Yalçın ÖZKAN, "Uygulamalı Derin Öğrenme", Papatya Bilim Yayıncılık, İstanbul, 2021. 
 
+14. Dr. Andriy BURKOV, "The hundred-page machine learning" book (Vol. 1, p. 32). Quebec City, QC, Canada: Andriy Burkov, 2019. 
