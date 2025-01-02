@@ -117,7 +117,9 @@
 #### 4.1.2. Float (float) Veri Türü  
 
 ## Ders 5. [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
-
+5.1. Kullanılan Operatörlerlerin Tam Listesi   
+5.2. Algoritmalarda Kullanılan Tanım ve Kavramlar    
+5.3. Algoritma Hazırlama Süreci    
 ## Ders 6. [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)
 6.1. Akış Diyagramı Nedir?    
 6.1.1. Akış diyagramlarının faydaları    
