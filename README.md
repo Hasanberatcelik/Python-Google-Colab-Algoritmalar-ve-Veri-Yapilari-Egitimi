@@ -295,5 +295,8 @@
 8.	Nilsson NJ (1965). Foundations of trainable pattern classifying systems. McGraw-Hill, New York
 9.	Taştan, A. (2001). Nasreddin Tusi: hayatı, eserleri, din ve toplum Görüşü. Erciyes Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, 1(11), 1-13.
 10.	Hebb, D. O. (1949). The first stage of perception: growth of the assembly. The Organization of Behavior, 4, 60-78.
-
+11.	Farley, B. W. A. C., & Clark, W. D. (1954). Simulation of self-organizing systems by digital computer. Transactions of the IRE Professional Group on Information Theory, 4(4), 76-84.
+12.	Uyanık, M. (2022). El-Hârezmî Ebû Ca‘Fer Muhammed B. Mûsâ. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 250.
+13.	McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics, 5(4), 115-133.
+14.	Yang, S., Lee, J., Sezgin, E., Bridge, J., & Lin, S. (2021). Clinical Advice by Voice Assistants on Postpartum Depression: Cross-Sectional Investigation Using Apple Siri, Amazon Alexa, Google Assistant, and Microsoft Cortana. JMIR mHealth and uHealth, 9(1), e24045. https://doi.org/10.2196/24045
 
