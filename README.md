@@ -242,3 +242,4 @@
 
 4. Prof. Dr. Vasıf NABİYEV, "Yapay zeka: insan-bilgisayar etkileşimi", Seçkin Yayınları, Ankara, 2021.
 
+5. Prof. Dr. Ali OKATAN, Tamer KARATEKİN, Dr. Kağan OKATAN, "100 Sayfada Makine Öğrenmesi Kitabı", Papatya Bilim Yayıncılık, İstanbul, 2020. 
