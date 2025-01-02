@@ -283,6 +283,12 @@
         https://github.com/acetinkaya/
         https://alicetinkaya.site/    
 
+# Tablo 1 içerisinde yer alan çalışmaların referans kaynak listesi: 
 
+1.	Arf, C. (1959). Makine Düşünebilir mi ve Nasıl Düşünebilir?. Atatürk Üniversitesi 1958-1959 Öğretim Yılı Halk Konferansları, (1), 91-103.
+2.	Widrow, B., & Hoff, M. E. (1960). Adaptative Switching Circuits. Wetscon Convention Record. Institute for Research and Education. New York.
+3.	Zadeh, L. A. (1965). Fuzzy sets. Information and control, 8(3), 338-353.
+4.	Brezina, C. (2006). Al-Khwarizmi: The inventor of algebra. The Rosen Publishing Group.
+5.	Campbell, M., Hoane Jr, A. J., & Hsu, F. H. (2002). Deep blue. Artificial intelligence, 134(1-2), 57-83.
 
 
