@@ -207,3 +207,7 @@
 ## Ders 24. Python’da Veri Görselleştirme İşlemleri   
 
 ## Ders 25. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye) - 2025
