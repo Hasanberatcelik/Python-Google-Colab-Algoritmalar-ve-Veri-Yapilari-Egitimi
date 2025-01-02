@@ -238,5 +238,6 @@
 
 2. Prof. Dr. Murat GÖK, "Makine Öğrenmesi Algoritmaları", Nobel Akademik Yayıncılık, Ankara, 2024.
 
+3. Prof. Dr. Vasıf NABİYEV, "Teoriden Uygulamalara Algoritmalar", Seçkin Yayınları, Ankara, 2011.
 
 
