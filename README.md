@@ -331,3 +331,9 @@ Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
+
+IEEE--> A. Cetinkaya, "veriyapilari-algoritma" GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/veriyapilari-algoritma. Son Erişim Tarihi: Gün Ay Yıl.
+
+APA--> Cetinkaya, A. (2024). veriyapilari-algoritma [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/veriyapilari-algoritma. Son Erişim Tarihi: Gün Ay Yıl.
