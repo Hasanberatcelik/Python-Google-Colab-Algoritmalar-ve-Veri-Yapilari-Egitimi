@@ -322,18 +322,23 @@
 35.	Yang, Z., Gan, Z., Wang, J., Hu, X., Lu, Y., Liu, Z., & Wang, L. (2022). An empirical study of gpt-3 for few-shot knowledge-based vqa. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 3, pp. 3081-3089).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak GitHub "acetinkaya" alanında paylaşımı yapılmıştır.
-
-Github alanından; star - yıldız ile beğenme bildirimi ile paylaşımlarıma destek verebilirsiniz.
-
-Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
 
 IEEE--> A. Cetinkaya, "veriyapilari-algoritma" GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/veriyapilari-algoritma. Son Erişim Tarihi: Gün Ay Yıl.
 
 APA--> Cetinkaya, A. (2024). veriyapilari-algoritma [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/veriyapilari-algoritma. Son Erişim Tarihi: Gün Ay Yıl.
+
+---
+
+Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak GitHub "acetinkaya" alanında paylaşımı yapılmıştır.
+
+Proje Durumu: İlgili paylaşımlar ve Python programlama dilinde yazılmış yazılım kodlarına sürüm güncellemeleri yaptıkça bu paylaşımları güncelleyeceğiz. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. Bilgi paylaşıldıkça büyür ve gelişir.
+
+Katkıda Bulunma: Çekme istekleri memnuniyetle karşılanır. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi görüşmek üzere ilgili Python kodunu belirttiğiniz bir soru - yanıt bölümü açın. 
+Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
+
+Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.com/acetinkaya) - 2025
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
