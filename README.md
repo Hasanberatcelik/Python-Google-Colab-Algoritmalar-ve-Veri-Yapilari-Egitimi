@@ -347,6 +347,6 @@ Project Status: The relevant posts and software codes written in the Python prog
 
 Contributing: Forks and pull requests are warmly welcomed. For major changes, please first open a question-answer thread indicating which Python code you want to modify to discuss your proposal. Knowledge multiplies and improves when shared. Best wishes for your work!
 
-Author and Maintainer: Lect. Ali Çetinkaya (MSc.) - 2025
+Author and Maintainer: [Lect. Ali Cetinkaya (MSc.)](https://github.com/acetinkaya) - 2025
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
