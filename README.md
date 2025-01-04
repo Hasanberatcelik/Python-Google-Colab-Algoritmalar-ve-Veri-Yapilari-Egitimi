@@ -216,7 +216,7 @@
 
 ## Ders 26: Görüntü İşleme İçin Python Kütüphaneleri - OpenCV
 
-## Ders 27: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (, , , Keras)
+## Ders 27: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri
 
 #### 27.1. Scikit-Learn Kütüphanesi
 
@@ -224,7 +224,7 @@
 
 #### 27.3. PyTorch Kütüphanesi
 
-#### 27.4. Python Programlama Dili Üzerinde Sözlük Yapısı ve İşlemleri  
+#### 27.4. Keras Kütüphanesi
 
 ## Ders 28: API ve Endpoint Kullanımı
 
