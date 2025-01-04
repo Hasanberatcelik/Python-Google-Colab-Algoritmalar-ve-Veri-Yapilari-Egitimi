@@ -182,6 +182,9 @@
 
 ########### 2. Kısım ###########   
 
+## Ders 13. Python’da Veri Analitiği ve Görselleştirme İçin Temel Kütüphaneler
+
+
 ## Ders 13. Sıralama Algoritmaları
 
 ## Ders 14. Arama Algoritmaları
