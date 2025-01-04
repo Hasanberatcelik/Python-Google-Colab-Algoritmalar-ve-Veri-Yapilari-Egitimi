@@ -198,7 +198,7 @@
 
 ## Ders 17. Yığın, Kuyruk ve Bağlantılı Liste Yapısı
 
-## Ders 17. Grafik Programlama
+## Ders 18. Grafik Programlama
 
 ## Ders 18. Gelişmiş Veri Yapıları ve Uygulamalar
 
