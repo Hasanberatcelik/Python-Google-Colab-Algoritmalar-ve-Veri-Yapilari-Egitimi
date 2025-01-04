@@ -204,11 +204,11 @@
 
 ## Ders 20. Dinamik Programlama
 
-## Ders 20. Hash Tabloları ve Hash Fonksiyonları
+## Ders 21. Hash Tabloları ve Hash Fonksiyonları
 
-## Ders 21. Python’da Yerleşik Veri Koleksiyonları ve Özel Yapılar
+## Ders 22. Python’da Yerleşik Veri Koleksiyonları ve Özel Yapılar
 
-## Ders 22. Büyük O Notasyonu ve Algoritma Analizi
+## Ders 23. Büyük O Notasyonu ve Algoritma Analizi
 
 ## Ders 23. Python’da Multithreading ve Paralel Programlama
 
