@@ -192,7 +192,7 @@
 
 ## Ders 14. Sıralama Algoritmaları
 
-## Ders 14. Arama Algoritmaları
+## Ders 15. Arama Algoritmaları
 
 ## Ders 15. Graf Algoritmaları
 
