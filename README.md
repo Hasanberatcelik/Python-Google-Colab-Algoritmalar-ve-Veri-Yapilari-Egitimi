@@ -186,7 +186,7 @@
 
 #### 13.1. Pandas Kütüphanesi
 
-#### 13.2. Python Programlama Dili Üzerinde Koşul Yapıları  
+#### 13.2. Numpy Kütüphanesi
 
 #### 13.3. Python Programlama Dili Üzerinde Döngü Yapıları 
 
