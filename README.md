@@ -216,9 +216,9 @@
 
 ## Ders 26: Görüntü İşleme İçin Python Kütüphaneleri - OpenCV
 
-## Ders 27: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow, PyTorch, Keras)
+## Ders 27: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (, TensorFlow, PyTorch, Keras)
 
-#### 27.1. Python Programlama Dili Üzerinde Liste - Dizi Yapısı ve İşlemleri   
+#### 27.1. Scikit-Learn Kütüphanesi
 
 #### 27.2. Python Programlama Dili Üzerinde Demet Yapısı ve İşlemleri  
 
