@@ -210,6 +210,11 @@
 
 ## Ders 23. Büyük O Notasyonu ve Algoritma Analizi
 
+## Ders 24: Python’da Veri Görselleştirme İşlemleri
+
+
+
+
 ## Ders 23. Python’da Multithreading ve Paralel Programlama
 
 ## Ders 24. Python’da Veri Görselleştirme İşlemleri   
