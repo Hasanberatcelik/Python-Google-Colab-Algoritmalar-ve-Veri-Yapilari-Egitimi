@@ -202,7 +202,7 @@
 
 ## Ders 19. Gelişmiş Veri Yapıları ve Uygulamalar
 
-## Ders 19. Dinamik Programlama
+## Ders 20. Dinamik Programlama
 
 ## Ders 20. Hash Tabloları ve Hash Fonksiyonları
 
