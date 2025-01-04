@@ -214,10 +214,9 @@
 
 ## Ders 25. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
 
+## Ders 26: Görüntü İşleme İçin Python Kütüphaneleri - OpenCV
 
-## Ders 26: Görüntü İşleme İçin Python Kütüphaneleri
-
-
+## Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow, PyTorch, Keras)
 
 
 ## Ders 23. Python’da Multithreading ve Paralel Programlama
