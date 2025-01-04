@@ -188,7 +188,7 @@
 
 #### 13.2. Numpy Kütüphanesi
 
-#### 13.3. Python Programlama Dili Üzerinde Döngü Yapıları 
+#### 13.3. Matplotlib Kütüphanesi
 
 ## Ders 13. Sıralama Algoritmaları
 
