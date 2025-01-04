@@ -194,7 +194,7 @@
 
 ## Ders 15. Arama Algoritmaları
 
-## Ders 15. Graf Algoritmaları
+## Ders 16. Graf Algoritmaları
 
 ## Ders 16. Yığın, Kuyruk ve Bağlantılı Liste Yapısı
 
