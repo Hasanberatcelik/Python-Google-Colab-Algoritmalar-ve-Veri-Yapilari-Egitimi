@@ -184,11 +184,11 @@
 
 ## Ders 13. Python’da Veri Analitiği ve Görselleştirme İçin Temel Kütüphaneler
 
-#### 7.2. Python Programlama Dili Üzerinde Sıralı Yapılar  
+#### 13.1. Pandas Kütüphanesi
 
-#### 7.3. Python Programlama Dili Üzerinde Koşul Yapıları  
+#### 13.2. Python Programlama Dili Üzerinde Koşul Yapıları  
 
-#### 7.4. Python Programlama Dili Üzerinde Döngü Yapıları 
+#### 13.3. Python Programlama Dili Üzerinde Döngü Yapıları 
 
 ## Ders 13. Sıralama Algoritmaları
 
