@@ -190,7 +190,7 @@
 
 #### 13.3. Matplotlib Kütüphanesi
 
-## Ders 13. Sıralama Algoritmaları
+## Ders 14. Sıralama Algoritmaları
 
 ## Ders 14. Arama Algoritmaları
 
