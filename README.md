@@ -216,8 +216,9 @@
 
 ## Ders 26: Görüntü İşleme İçin Python Kütüphaneleri - OpenCV
 
-## Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow, PyTorch, Keras)
+## Ders 27: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow, PyTorch, Keras)
 
+## Ders 28: API ve Endpoint Kullanımı
 
 ## Ders 23. Python’da Multithreading ve Paralel Programlama
 
