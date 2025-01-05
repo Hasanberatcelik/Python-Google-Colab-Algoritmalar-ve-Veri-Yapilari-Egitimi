@@ -182,7 +182,7 @@
 
 ########### 2. Kısım ###########   
 
-## Ders 13. Python’da Veri Analitiği ve Görselleştirme İçin Temel Kütüphaneler
+## Ders 13. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
 
 #### 13.1. Pandas Kütüphanesi
 
