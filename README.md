@@ -244,7 +244,7 @@
     Işık saçmak için önce yanmak gerekir.
                               Hz. Mevlana
 
-## Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye) - 2025
+## [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye) - 2025](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
