@@ -1,4 +1,4 @@
-## Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye)
+## [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye)](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)
 
 ![alternatif metin](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi/blob/main/Egitim-Kapagi.png)
 
