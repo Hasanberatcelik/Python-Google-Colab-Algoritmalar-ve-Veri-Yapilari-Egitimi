@@ -182,6 +182,10 @@
 
 #### 12.1 Python Dosya işlemleri
 
+12.2 Python ile *.csv dosya işlemleri
+
+
+
 
 ########### 2. Kısım ###########   
 
