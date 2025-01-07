@@ -184,7 +184,7 @@
 
 12.2 Python ile *.csv dosya işlemleri
 
-
+12.3 Python ile *.excel dosya işlemleri
 
 
 ########### 2. Kısım ###########   
