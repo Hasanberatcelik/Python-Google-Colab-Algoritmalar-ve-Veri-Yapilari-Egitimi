@@ -180,7 +180,7 @@
 
 ## Ders 12. Python Programlama Dili üzerinde Dosya İşlemleri     
 
-12.1 Python Dosya işlemleri
+#### 12.1 Python Dosya işlemleri
 
 
 ########### 2. Kısım ###########   
