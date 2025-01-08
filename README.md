@@ -192,9 +192,9 @@
 
 ## Ders 13. Açık Kaynak Veri ve Veri Setleri
 
-13.1. Açık Kaynak Verinin Tanımı ve Önemi
+#### 13.1. Açık Kaynak Verinin Tanımı ve Önemi
 
-13.2. Açık Kaynak Veri Seti Sayfaları
+#### 13.2. Açık Kaynak Veri Seti Sayfaları
 
 ## Ders 14. Python Programlama Dili Kütüphanelerine Giriş
 
