@@ -188,11 +188,21 @@
 
 #### 12.4. Python'da CSV ve Excel Dosyalarının Farkları ve Kullanım Alanları Tablosu
 
+########### 2. Kısım ###########   
+
+## Ders 13. Açık Veri ve Veri Setleri
+
+13.1. Açık Kaynak Verinin Tanımı ve Önemi
+
+13.2. Açık Kaynak Veri Seti Sayfaları
+
+
+
 #### 12.5. Python Programlama Dili Kütüphanelerine Giriş
 
+Açık Verinin Tanımı ve Önemi
 
 
-########### 2. Kısım ###########   
 
 ## Ders 13. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
 
