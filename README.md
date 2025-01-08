@@ -190,7 +190,7 @@
 
 ########### 2. Kısım ###########   
 
-## Ders 13. Açık Kaynak Veri ve Veri Setleri
+## Ders 13. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
 
 #### 13.1. Açık Kaynak Verinin Tanımı ve Önemi
 
@@ -212,8 +212,7 @@
 
 #### 15.3. Matplotlib Kütüphanesi
 
-
-
+########### 3. Kısım ###########   
 
 ## Ders 14. Sıralama Algoritmaları
 
@@ -234,6 +233,8 @@
 ## Ders 22. Büyük O Notasyonu ve Algoritma Analizi
 
 ## Ders 23. Python’da Multithreading ve Paralel Programlama
+
+########### 4. Kısım ###########   
 
 ## Ders 24: Python’da İleri Veri Görselleştirme İşlemleri
 
