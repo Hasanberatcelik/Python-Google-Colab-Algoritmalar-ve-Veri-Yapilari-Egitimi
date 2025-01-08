@@ -202,7 +202,7 @@
 
 #### 14.2. Pandas Kütüphanesi
 
-#### 14.3. Açık Kaynak Veri Setleri Üzerinde Google Colab Python Uygulaması 
+#### 14.3. Python Dosya İşlemi Uygulaması: Açık Kaynak Veri Setleri Üzerinde Google Colab Python Örneği 
 
 ## Ders 15. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
 
