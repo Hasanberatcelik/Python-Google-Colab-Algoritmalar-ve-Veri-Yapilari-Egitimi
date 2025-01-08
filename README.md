@@ -198,17 +198,20 @@
 
 ## Ders 14. Python Programlama Dili Kütüphanelerine Giriş
 
+#### 14.1. Os Kütüphanesi
+
+#### 14.2. Pandas Kütüphanesi
+
+## Ders 15. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
+
+#### 15.1. Pandas Kütüphanesi
+
+#### 15.2. Numpy Kütüphanesi
+
+#### 15.3. Matplotlib Kütüphanesi
 
 
 
-
-## Ders 13. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
-
-#### 13.1. Pandas Kütüphanesi
-
-#### 13.2. Numpy Kütüphanesi
-
-#### 13.3. Matplotlib Kütüphanesi
 
 ## Ders 14. Sıralama Algoritmaları
 
