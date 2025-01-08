@@ -188,6 +188,8 @@
 
 #### 12.4. Python'da CSV ve Excel Dosyalarının Farkları ve Kullanım Alanları Tablosu
 
+#### 12.5. Python Programlama Dili Kütüphanelerine Giriş
+
 
 
 ########### 2. Kısım ###########   
