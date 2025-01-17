@@ -244,15 +244,15 @@
 
 ## Ders 25. Grafik Programlama
 
-## Ders 19. Gelişmiş Veri Yapıları ve Uygulamalar
+## Ders 26. Gelişmiş Veri Yapıları ve Uygulamalar
 
-## Ders 20. Dinamik Programlama
+## Ders 27. Dinamik Programlama
 
-## Ders 21. Hash Tabloları ve Hash Fonksiyonları
+## Ders 28. Hash Tabloları ve Hash Fonksiyonları
 
-## Ders 22. Büyük O Notasyonu ve Algoritma Analizi
+## Ders 29. Büyük O Notasyonu ve Algoritma Analizi
 
-## Ders 23. Python’da Multithreading ve Paralel Programlama
+## Ders 30. Python’da Multithreading ve Paralel Programlama
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
