@@ -196,8 +196,6 @@
 
 #### 13.4. Python'da CSV ve Excel Dosyalarının Farkları ve Kullanım Alanları Tablosu
 
-
-
 ## Ders 14. Python Programlama Dili Kütüphanelerine Giriş
 
 #### 14.1. Os Kütüphanesi
