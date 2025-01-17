@@ -212,15 +212,15 @@
 
 #### 15.3. Matplotlib Kütüphanesi
 
-########### 4. Kısım ###########   Yayına Gireçeği Zamanı 03.03.2025
+########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.02.2025
 
 ## Ders 16: Python’da İleri Veri Görselleştirme İşlemleri
 
-## Ders 25. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
+## Ders 17. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
 
-## Ders 26: Görüntü İşleme İçin Python Kütüphaneleri - OpenCV
+## Ders 18: Görüntü İşleme İçin Python Kütüphaneleri - OpenCV
 
-## Ders 27: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri
+## Ders 19: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri
 
 #### 27.1. Scikit-Learn Kütüphanesi
 
@@ -232,7 +232,7 @@
 
 ## Ders 28: API ve Endpoint Kullanımı
 
-########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.02.2025
+########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.03.2025
 
 ## Ders 14. Sıralama Algoritmaları
 
