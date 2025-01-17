@@ -180,11 +180,11 @@
 
 ########### 2. Kısım ###########   Tahmini Yayına Alınma Zamanı 26.01.2025
 
-## Ders 13. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
+## Ders 12. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
 
-#### 13.1. Açık Kaynak Verinin Tanımı ve Önemi
+#### 12.1. Açık Kaynak Verinin Tanımı ve Önemi
 
-#### 13.2. Açık Kaynak Veri Seti Sayfaları
+#### 12.2. Açık Kaynak Veri Seti Sayfaları
 
 ## Ders 12. Python Programlama Dili üzerinde Dosya İşlemleri     
 
