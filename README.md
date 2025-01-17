@@ -232,7 +232,7 @@
 
 ## Ders 20: Python API ve Endpoint Kullanımı
 
-########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.03.2025
+########### 4. Kısım ###########   Yayına Gireçeği Zamanı 09.03.2025
 
 ## Ders 21. Sıralama Algoritmaları
 
