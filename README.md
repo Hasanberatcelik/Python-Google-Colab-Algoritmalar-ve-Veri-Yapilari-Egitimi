@@ -234,9 +234,9 @@
 
 ########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.03.2025
 
-## Ders 14. Sıralama Algoritmaları
+## Ders 21. Sıralama Algoritmaları
 
-## Ders 15. Arama Algoritmaları
+## Ders 22. Arama Algoritmaları
 
 ## Ders 16. Graf Algoritmaları
 
