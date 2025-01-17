@@ -212,9 +212,7 @@
 
 #### 15.3. Matplotlib Kütüphanesi
 
-########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.02.2025
-
-
+########### 4. Kısım ###########   Yayına Gireçeği Zamanı 03.03.2025
 
 ## Ders 24: Python’da İleri Veri Görselleştirme İşlemleri
 
@@ -233,6 +231,28 @@
 #### 27.4. Keras Kütüphanesi
 
 ## Ders 28: API ve Endpoint Kullanımı
+
+########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.02.2025
+
+## Ders 14. Sıralama Algoritmaları
+
+## Ders 15. Arama Algoritmaları
+
+## Ders 16. Graf Algoritmaları
+
+## Ders 17. Yığın, Kuyruk ve Bağlantılı Liste Yapısı
+
+## Ders 18. Grafik Programlama
+
+## Ders 19. Gelişmiş Veri Yapıları ve Uygulamalar
+
+## Ders 20. Dinamik Programlama
+
+## Ders 21. Hash Tabloları ve Hash Fonksiyonları
+
+## Ders 22. Büyük O Notasyonu ve Algoritma Analizi
+
+## Ders 23. Python’da Multithreading ve Paralel Programlama
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
