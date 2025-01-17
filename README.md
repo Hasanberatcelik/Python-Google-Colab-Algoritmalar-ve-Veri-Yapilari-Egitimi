@@ -178,7 +178,7 @@
 
 ## Ders 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
 
-########### 2. Kısım ###########   Tahmini Yayına Alınma Zamanı 26.01.2025
+########### 2. Kısım ###########   Yayına Gireçeği Zamanı 26.01.2025
 
 ## Ders 12. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
 
