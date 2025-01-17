@@ -186,15 +186,15 @@
 
 #### 12.2. Açık Kaynak Veri Seti Sayfaları
 
-## Ders 12. Python Programlama Dili üzerinde Dosya İşlemleri     
+## Ders 13. Python Programlama Dili üzerinde Dosya İşlemleri     
 
-#### 12.1. Python Dosya işlemleri
+#### 13.1. Python Dosya işlemleri
 
-#### 12.2. Python ile *.csv dosya işlemleri
+#### 13.2. Python ile *.csv dosya işlemleri
 
-#### 12.3. Python ile *.excel dosya işlemleri
+#### 13.3. Python ile *.excel dosya işlemleri
 
-#### 12.4. Python'da CSV ve Excel Dosyalarının Farkları ve Kullanım Alanları Tablosu
+#### 13.4. Python'da CSV ve Excel Dosyalarının Farkları ve Kullanım Alanları Tablosu
 
 
 
