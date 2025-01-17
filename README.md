@@ -238,11 +238,11 @@
 
 ## Ders 22. Arama Algoritmaları
 
-## Ders 16. Graf Algoritmaları
+## Ders 23. Graf Algoritmaları
 
-## Ders 17. Yığın, Kuyruk ve Bağlantılı Liste Yapısı
+## Ders 24. Yığın, Kuyruk ve Bağlantılı Liste Yapısı
 
-## Ders 18. Grafik Programlama
+## Ders 25. Grafik Programlama
 
 ## Ders 19. Gelişmiş Veri Yapıları ve Uygulamalar
 
