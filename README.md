@@ -178,6 +178,16 @@
 
 ## Ders 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
 
+
+
+########### 2. Kısım ###########   Tahmini Yayınlanma Zamanı
+
+## Ders 13. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
+
+#### 13.1. Açık Kaynak Verinin Tanımı ve Önemi
+
+#### 13.2. Açık Kaynak Veri Seti Sayfaları
+
 ## Ders 12. Python Programlama Dili üzerinde Dosya İşlemleri     
 
 #### 12.1. Python Dosya işlemleri
@@ -188,13 +198,7 @@
 
 #### 12.4. Python'da CSV ve Excel Dosyalarının Farkları ve Kullanım Alanları Tablosu
 
-########### 2. Kısım ###########   
 
-## Ders 13. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
-
-#### 13.1. Açık Kaynak Verinin Tanımı ve Önemi
-
-#### 13.2. Açık Kaynak Veri Seti Sayfaları
 
 ## Ders 14. Python Programlama Dili Kütüphanelerine Giriş
 
