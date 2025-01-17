@@ -214,7 +214,7 @@
 
 ########### 4. Kısım ###########   Yayına Gireçeği Zamanı 03.03.2025
 
-## Ders 24: Python’da İleri Veri Görselleştirme İşlemleri
+## Ders 16: Python’da İleri Veri Görselleştirme İşlemleri
 
 ## Ders 25. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
 
