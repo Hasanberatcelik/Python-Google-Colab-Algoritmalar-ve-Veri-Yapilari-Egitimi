@@ -222,15 +222,15 @@
 
 ## Ders 19: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri
 
-#### 27.1. Scikit-Learn Kütüphanesi
+#### 19.1. Scikit-Learn Kütüphanesi
 
-#### 27.2. TensorFlow Kütüphanesi
+#### 19.2. TensorFlow Kütüphanesi
 
-#### 27.3. PyTorch Kütüphanesi
+#### 19.3. PyTorch Kütüphanesi
 
-#### 27.4. Keras Kütüphanesi
+#### 19.4. Keras Kütüphanesi
 
-## Ders 28: API ve Endpoint Kullanımı
+## Ders 20: Python API ve Endpoint Kullanımı
 
 ########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.03.2025
 
