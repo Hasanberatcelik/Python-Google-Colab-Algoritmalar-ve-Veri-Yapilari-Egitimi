@@ -178,7 +178,7 @@
 
 ## Ders 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
 
-########### 2. Kısım ###########   Yayına Gireçeği Zamanı 26.01.2025
+########### 2. Kısım ###########   Yayına Gireçeği Zamanı 23.02.2025
 
 ## Ders 12. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
 
@@ -212,7 +212,7 @@
 
 #### 15.3. Matplotlib Kütüphanesi
 
-########### 3. Kısım ###########   Yayına Gireçeği Zamanı 09.02.2025
+########### 3. Kısım ###########   Yayına Gireçeği Zamanı 23.03.2025
 
 ## Ders 16: Python’da İleri Veri Görselleştirme İşlemleri
 
@@ -232,7 +232,7 @@
 
 ## Ders 20: Python API ve Endpoint Kullanımı
 
-########### 4. Kısım ###########   Yayına Gireçeği Zamanı 09.03.2025
+########### 4. Kısım ###########   Yayına Gireçeği Zamanı 25.05.2025
 
 ## Ders 21. Sıralama Algoritmaları
 
