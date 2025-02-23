@@ -180,7 +180,9 @@
 
 ---
 
-#### Bölüm 8.  Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi   
+#### Bölüm 8.  Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi
+
+---
 
 ## ✅ Bölüm 9-11: Veri Koleksiyonları ve Fonksiyonlar 
 
@@ -192,9 +194,15 @@
 
 #### 9.3. Python Programlama Dili Üzerinde Sözlük Yapısı ve İşlemleri  
 
-## Ders 10. Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri   
+---
 
-## Ders 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
+#### Bölüm 10. Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri  
+
+---
+
+#### Bölüm 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
+
+---
 
 ########### 2. Kısım ###########   Yayına Gireçeği Zamanı 23.02.2025
 
