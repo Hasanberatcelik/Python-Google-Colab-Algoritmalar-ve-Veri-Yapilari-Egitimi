@@ -220,8 +220,6 @@
 
 #### 15.2. Matplotlib Kütüphanesi
 
-########### 3. Kısım ###########   Yayına Gireçeği Zamanı 23.03.2025
-
 #### Bölüm 16: Python’da Veri Görselleştirme İşlemleri (OpenCV)
 
 #### Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
@@ -232,7 +230,7 @@
 
 ## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme
 
-########### 4. Kısım ###########   Yayına Gireçeği Zamanı 25.04.2025
+## ✅ Bölüm 19-20: Algoritma ve Performans Analizi 
 
 ## Ders 21. Sıralama Algoritmaları
 
