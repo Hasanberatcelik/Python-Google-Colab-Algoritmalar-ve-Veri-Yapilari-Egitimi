@@ -164,6 +164,8 @@
 
 #### 6.2. Akış Diyagramı Çizim Uygulamasının Gerçekleştirilmesi  
 
+## ✅ Bölüm 7-8: Python'da Algoritma Geliştirme ve Hata Yönetimi 
+
 ## Ders 7. Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
 
 #### 7.1. Sıralı, Koşullu ve Tekrarlı Yapılar  
