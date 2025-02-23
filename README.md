@@ -224,8 +224,7 @@
 
 #### Bölüm 16: Python’da Veri Görselleştirme İşlemleri (OpenCV)
 
-## Ders 17. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
-
+## Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
 ## Ders 18: Görüntü İşleme İçin Python Kütüphaneleri - OpenCV
 
 ## Ders 19: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri
