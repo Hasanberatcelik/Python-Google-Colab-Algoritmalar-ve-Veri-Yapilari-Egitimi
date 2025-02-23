@@ -248,11 +248,12 @@
 
 ## ✅ Bölüm 25-27: Gelişmiş Veri Yapıları ve Optimizasyon Teknikleri
 
-## Ders 23. Graf Algoritmaları
+### Bölüm 25: Gelişmiş Veri Yapıları ve Uygulamalar
 
-## Ders 24. Yığın, Kuyruk ve Bağlantılı Liste Yapısı
+### Bölüm 26: Hash Tabloları ve Hash Fonksiyonları
 
-## Ders 25. Grafik Programlama
+### Bölüm 27: Dinamik Programlama
+
 
 ## Ders 26. Gelişmiş Veri Yapıları ve Uygulamalar
 
