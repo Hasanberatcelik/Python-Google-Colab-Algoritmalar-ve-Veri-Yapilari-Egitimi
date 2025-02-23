@@ -178,11 +178,9 @@
 
 #### 7.5. Python Programlama Dili Üzerinde Sıralı, Koşul & Döngü Örnekleri   
 
----
-
 #### Bölüm 8.  Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi   
 
----
+## ✅ Bölüm 9-11: Veri Koleksiyonları ve Fonksiyonlar 
 
 ## Ders 9. Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri   
 
