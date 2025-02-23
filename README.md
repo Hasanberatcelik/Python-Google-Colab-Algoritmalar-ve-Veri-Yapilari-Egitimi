@@ -254,16 +254,10 @@
 
 ### Bölüm 27: Dinamik Programlama
 
+## ✅ Bölüm 10-11: Algoritma Verimliliği ve Paralel Programlama
+Bölüm 10: Grafik Programlama 
+Bölüm 11: Python’da Multithreading ve Paralel Programlama 
 
-## Ders 26. Gelişmiş Veri Yapıları ve Uygulamalar
-
-## Ders 27. Dinamik Programlama
-
-## Ders 28. Hash Tabloları ve Hash Fonksiyonları
-
-## Ders 29. Büyük O Notasyonu ve Algoritma Analizi
-
-## Ders 30. Python’da Multithreading ve Paralel Programlama
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
