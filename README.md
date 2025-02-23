@@ -232,7 +232,7 @@
 
 ## ✅ Bölüm 19-20: Algoritma ve Performans Analizi 
 
-## Ders 21. Sıralama Algoritmaları
+#### Bölüm 19: Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi
 
 ## Ders 22. Arama Algoritmaları
 
