@@ -246,6 +246,7 @@
 
 #### Bölüm 24: Graf Algoritmaları
 
+## ✅ Bölüm 25-27: Gelişmiş Veri Yapıları ve Optimizasyon Teknikleri
 
 ## Ders 23. Graf Algoritmaları
 
