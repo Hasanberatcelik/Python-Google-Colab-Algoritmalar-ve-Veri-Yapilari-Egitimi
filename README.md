@@ -166,7 +166,7 @@
 
 ## ✅ Bölüm 7-8: Python'da Algoritma Geliştirme ve Hata Yönetimi 
 
-## Ders 7. Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
+#### Bölüm 7. Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
 
 #### 7.1. Sıralı, Koşullu ve Tekrarlı Yapılar  
 
@@ -178,7 +178,11 @@
 
 #### 7.5. Python Programlama Dili Üzerinde Sıralı, Koşul & Döngü Örnekleri   
 
-## Ders 8. Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi   
+---
+
+#### Bölüm 8.  Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi   
+
+---
 
 ## Ders 9. Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri   
 
