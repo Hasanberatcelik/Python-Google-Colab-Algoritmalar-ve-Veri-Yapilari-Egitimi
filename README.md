@@ -234,7 +234,7 @@
 
 #### Bölüm 19: Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi
 
-## Ders 22. Arama Algoritmaları
+#### Bölüm 20: Büyük O Notasyonu ve Algoritma Analizi 
 
 ## Ders 23. Graf Algoritmaları
 
