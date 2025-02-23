@@ -60,7 +60,7 @@
 
 ## DETAYLANDIRILMIŞ DERS PLANI -->
 
-### DERS 0. Eğitim Tanıtımı
+## ✅ DERS 0. Eğitim Tanıtımı
 
 ## ✅ Bölüm 1-6: Programlamaya Giriş ve Algoritmik Düşünme
 
