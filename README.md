@@ -212,15 +212,13 @@
 
 #### Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)
 
-✅ Bölüm 15-17: Yapay Zekaya Giriş ve Veri İşleme 
+## ✅ Bölüm 15-17: Yapay Zekaya Giriş ve Veri İşleme 
 
-## Ders 15. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
+#### Bölüm 15: Python’da Veri İşleme ve Analiz Kütüphaneleri (Numpy, Matplotlib)
 
-#### 15.1. Pandas Kütüphanesi
+#### 15.1. Numpy Kütüphanesi
 
-#### 15.2. Numpy Kütüphanesi
-
-#### 15.3. Matplotlib Kütüphanesi
+#### 15.2. Matplotlib Kütüphanesi
 
 ########### 3. Kısım ###########   Yayına Gireçeği Zamanı 23.03.2025
 
