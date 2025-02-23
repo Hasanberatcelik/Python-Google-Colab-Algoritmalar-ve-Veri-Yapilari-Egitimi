@@ -210,21 +210,9 @@
 
 #### Bölüm 13: Python Programlama Dili Üzerinde Dosya İşlemleri
 
-#### 13.1. Python Dosya işlemleri
+#### Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)
 
-#### 13.2. Python ile *.csv dosya işlemleri
 
-#### 13.3. Python ile *.excel dosya işlemleri
-
-#### 13.4. Python'da CSV ve Excel Dosyalarının Farkları ve Kullanım Alanları Tablosu
-
-## Ders 14. Python Programlama Dili Kütüphanelerine Giriş
-
-#### 14.1. Os Kütüphanesi
-
-#### 14.2. Pandas Kütüphanesi
-
-#### 14.3. Python Dosya İşlemi Uygulaması: Açık Kaynak Veri Setleri Üzerinde Google Colab Python Örneği 
 
 ## Ders 15. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
 
