@@ -64,6 +64,8 @@
 
 ## ✅ Bölüm 1-6: Programlamaya Giriş ve Algoritmik Düşünme
 
+#### 1. Giriş
+
 #### 1.1. Eğitim İçeriği    
 
 #### 1.2. Eğitmen Hakkında    
