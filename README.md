@@ -232,20 +232,7 @@
 
 ## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme
 
-
-
-
-## Ders 19: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri
-
-
-
-#### 19.3. PyTorch Kütüphanesi
-
-#### 19.4. Keras Kütüphanesi
-
-## Ders 20: Python API ve Endpoint Kullanımı
-
-########### 4. Kısım ###########   Yayına Gireçeği Zamanı 25.05.2025
+########### 4. Kısım ###########   Yayına Gireçeği Zamanı 25.04.2025
 
 ## Ders 21. Sıralama Algoritmaları
 
