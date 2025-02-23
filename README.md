@@ -222,7 +222,7 @@
 
 ########### 3. Kısım ###########   Yayına Gireçeği Zamanı 23.03.2025
 
-## Ders 16: Python’da İleri Veri Görselleştirme İşlemleri
+#### Bölüm 16: Python’da Veri Görselleştirme İşlemleri (OpenCV)
 
 ## Ders 17. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi   
 
