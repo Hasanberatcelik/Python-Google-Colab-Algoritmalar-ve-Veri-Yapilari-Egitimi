@@ -204,9 +204,9 @@
 
 ---
 
-########### 2. Kısım ###########   Yayına Gireçeği Zamanı 23.02.2025
+✅ Bölüm 12-14: Veri Bilimine Giriş, Python Kütüphaneleri, Dosya İşlemleri ve Veri Setleri
 
-## Ders 12. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
+#### Bölüm 12. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
 
 #### 12.1. Açık Kaynak Verinin Tanımı ve Önemi
 
