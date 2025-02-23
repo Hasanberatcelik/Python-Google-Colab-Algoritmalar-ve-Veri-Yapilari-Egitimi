@@ -226,7 +226,9 @@
 
 #### Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
 
+#### 17.1. Scikit-Learn Kütüphanesi
 
+#### 17.2. TensorFlow Kütüphanesi
 
 ## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme
 
