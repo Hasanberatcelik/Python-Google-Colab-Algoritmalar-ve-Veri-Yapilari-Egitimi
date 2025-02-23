@@ -212,7 +212,7 @@
 
 #### Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)
 
-
+✅ Bölüm 15-17: Yapay Zekaya Giriş ve Veri İşleme 
 
 ## Ders 15. Python’da Veri Analitiği ve Veri Görselleştirme İçin Temel Kütüphaneler
 
