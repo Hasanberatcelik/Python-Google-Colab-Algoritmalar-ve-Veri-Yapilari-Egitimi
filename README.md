@@ -224,15 +224,18 @@
 
 #### Bölüm 16: Python’da Veri Görselleştirme İşlemleri (OpenCV)
 
-## Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
+#### Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
+
+
 
 ## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme
 
+
+
+
 ## Ders 19: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri
 
-#### 19.1. Scikit-Learn Kütüphanesi
 
-#### 19.2. TensorFlow Kütüphanesi
 
 #### 19.3. PyTorch Kütüphanesi
 
