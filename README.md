@@ -208,7 +208,7 @@
 
 #### Bölüm 12: Veri Bilimine Giriş ve Python Kütüphaneleri (OS, Pandas) 
 
-## Ders 13. Python Programlama Dili üzerinde Dosya İşlemleri     
+#### Bölüm 13: Python Programlama Dili Üzerinde Dosya İşlemleri
 
 #### 13.1. Python Dosya işlemleri
 
