@@ -236,6 +236,12 @@
 
 #### Bölüm 20: Büyük O Notasyonu ve Algoritma Analizi 
 
+## ✅ Bölüm 3-6: Algoritmalar ve Veri Yapısı 
+
+#### Bölüm 19: Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi
+
+#### Bölüm 20: Büyük O Notasyonu ve Algoritma Analizi 
+
 ## Ders 23. Graf Algoritmaları
 
 ## Ders 24. Yığın, Kuyruk ve Bağlantılı Liste Yapısı
