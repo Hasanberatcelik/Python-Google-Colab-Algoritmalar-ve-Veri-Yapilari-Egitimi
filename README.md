@@ -206,11 +206,7 @@
 
 ## ✅ Bölüm 12-14: Veri Bilimine Giriş, Python Kütüphaneleri, Dosya İşlemleri ve Veri Setleri
 
-#### Bölüm 12. Açık Kaynak Veri ve Veri Setleri (CSV ve Excel)
-
-#### 12.1. Açık Kaynak Verinin Tanımı ve Önemi
-
-#### 12.2. Açık Kaynak Veri Seti Sayfaları
+#### Bölüm 12: Veri Bilimine Giriş ve Python Kütüphaneleri (OS, Pandas) 
 
 ## Ders 13. Python Programlama Dili üzerinde Dosya İşlemleri     
 
