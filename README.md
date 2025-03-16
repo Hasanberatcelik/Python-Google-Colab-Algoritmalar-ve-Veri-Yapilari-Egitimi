@@ -210,7 +210,7 @@
 
 #### Bölüm 13: Python Programlama Dili Üzerinde Dosya İşlemleri
 
-#### Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)
+#### [Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)](https://github.com/acetinkaya/VeriYapilari-ders14)
 
 ## ✅ Bölüm 15-17: Yapay Zekaya Giriş ve Veri İşleme 
 
