@@ -264,7 +264,7 @@
 
 ## [Python + Google Colab: Algoritmalar ve Veri Yapıları Eğitimi (Sıfırdan İleriye) - 2025](https://www.udemy.com/course/python-google-colab-algoritmalar-ve-veri-yapilari-egitimi/)
 
-![alternatif metin](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi/blob/main/Egitim-Kapagi.png)
+![alternatif metin](https://github.com/acetinkaya/Python-Google-Colab-Algoritmalar-ve-Veri-Yapilari-Egitimi/blob/main/Kurs-girisi-kapag%C4%B1-v4.png)
 
 [Öğr. Gör. Ali ÇETİNKAYA - Ocak 2025](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) 
 
