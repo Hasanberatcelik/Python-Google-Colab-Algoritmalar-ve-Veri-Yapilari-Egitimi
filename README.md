@@ -232,7 +232,7 @@
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
-## ✅ Bölüm 20-25: Algoritmalar ve Veri Yapısı 
+## ✅ Bölüm 20: Python’da Veri Yapıları ve Algoritmalar
 
 ## ✅ Bölüm 21: Sıralama Algoritmaları
 
@@ -242,19 +242,7 @@
 
 ## ✅ Bölüm 24: Graf Algoritmaları
 
-## ✅ Bölüm 25-27: Gelişmiş Veri Yapıları ve Optimizasyon Teknikleri
-
-### Bölüm 25: Gelişmiş Veri Yapıları ve Uygulamalar
-
-### Bölüm 26: Hash Tabloları ve Hash Fonksiyonları
-
-### Bölüm 27: Dinamik Programlama
-
-## ✅ Bölüm 28-29: Algoritma Verimliliği ve Paralel Programlama
-
-#### Bölüm 28: Grafik Programlama 
-
-#### Bölüm 29: Python’da Multithreading ve Paralel Programlama 
+## ✅ Bölüm 25: Gelişmiş Veri Yapıları ve Optimizasyon Teknikleri
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
