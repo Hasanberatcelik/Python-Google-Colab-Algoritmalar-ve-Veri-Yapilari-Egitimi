@@ -114,9 +114,7 @@
 
 #### 3.5. Google Colab üzerinde uygulama – 2   
 
----
-
-#### Bölüm 4. [Programlama Dilinde Operatör Kavramı ve İşlemler](https://github.com/acetinkaya/VeriYapilari-ders4?tab=readme-ov-file#ders-4-programlama-dilinde-veri-t%C3%BCrleri-ve-operat%C3%B6rler)
+## ✅ Bölüm 4: [Programlama Dilinde Operatör Kavramı ve İşlemler](https://github.com/acetinkaya/VeriYapilari-ders4?tab=readme-ov-file#ders-4-programlama-dilinde-veri-t%C3%BCrleri-ve-operat%C3%B6rler)
 
 #### 4.1. Veri Türleri  
      4.1.1. Integer (int) Veri Türü  
@@ -137,9 +135,7 @@
 
 #### 4.5. Uygulamalı Örnekler ve Alıştırmalar   
 
----
-
-## ✅ Bölüm 5. [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
+## ✅ Bölüm 5: [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
 
 #### 5.1. Kullanılan Operatörlerlerin Tam Listesi   
 
@@ -147,7 +143,7 @@
 
 #### 5.3. Algoritma Hazırlama Süreci    
 
-## ✅ Bölüm 6. [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)
+## ✅ Bölüm 6: [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)
 
 #### 6.1. Akış Diyagramı Nedir? 
 
