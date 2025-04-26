@@ -232,15 +232,15 @@
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
-## ✅ Bölüm 20-2: Algoritmalar ve Veri Yapısı 
+## ✅ Bölüm 20-25: Algoritmalar ve Veri Yapısı 
 
-#### Bölüm 21: Sıralama Algoritmaları
+#### ✅ Bölüm 21: Sıralama Algoritmaları
 
-#### Bölüm 22: Arama Algoritmaları
+####  ✅Bölüm 22: Arama Algoritmaları
 
-#### Bölüm 23: Yığın, Kuyruk ve Bağlantılı Liste Yapısı
+####  ✅Bölüm 23: Yığın, Kuyruk ve Bağlantılı Liste Yapısı
 
-#### Bölüm 24: Graf Algoritmaları
+####  ✅Bölüm 24: Graf Algoritmaları
 
 ## ✅ Bölüm 25-27: Gelişmiş Veri Yapıları ve Optimizasyon Teknikleri
 
