@@ -192,15 +192,9 @@
 
 #### 9.3. Python Programlama Dili Üzerinde Sözlük Yapısı ve İşlemleri  
 
----
-
 ## ✅ Bölüm 10: Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri  
 
----
-
 ## ✅ Bölüm 11: Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
-
----
 
 ## ✅ Bölüm 12: Veri Bilimine Giriş ve Python Kütüphaneleri (OS, Pandas) 
 
