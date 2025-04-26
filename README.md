@@ -224,9 +224,9 @@
 
 #### 17.1. Yapay Zeka ve Veri Bilimi Uygulamaları İçin Veri Yapılarının Önemi
 
-#### 17.1. Scikit-Learn Kütüphanesi
+#### 17.2. Scikit-Learn Kütüphanesi
 
-#### 17.2. TensorFlow Kütüphanesi
+#### 17.3. TensorFlow Kütüphanesi
 
 ## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme İşlemi
 
