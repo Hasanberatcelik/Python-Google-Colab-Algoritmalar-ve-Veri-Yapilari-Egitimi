@@ -60,9 +60,9 @@
 
 ## DETAYLANDIRILMIŞ DERS PLANI -->
 
-## ✅ DERS 0. Eğitim Tanıtımı
+## ✅ Bölüm 0: Eğitim Tanıtımı
 
-## ✅ Bölüm 1. Programlamaya Giriş ve Algoritmik Düşünme
+## ✅ Bölüm 1: Programlamaya Giriş ve Algoritmik Düşünme
 
 #### 1.1. Eğitim İçeriği    
 
@@ -79,8 +79,6 @@
 #### 1.7. Peki Neden Python Programlama Dili?       
 
 #### 1.8. Eğitime Nasıl Çalışmalıyız ve Ne kadar Zaman Ayırmalıyız?	   
-
----
 
 #### Bölüm 2. Kurulumlar ve Hazırlıklar    
 
