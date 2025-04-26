@@ -164,8 +164,6 @@
 
 #### 6.2. Akış Diyagramı Çizim Uygulamasının Gerçekleştirilmesi  
 
----
-
 ## ✅ Bölüm 7: Algoritma Geliştirme: Sıralı, Koşullu ve Tekrarlı Yapılar  
 
 #### 7.1. Sıralı, Koşullu ve Tekrarlı Yapılar  
@@ -178,11 +176,7 @@
 
 #### 7.5. Python Programlama Dili Üzerinde Sıralı, Koşul & Döngü Örnekleri   
 
----
-
 ## ✅ Bölüm 8:  Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi
-
----
 
 ## ✅ Bölüm 9. Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri   
 
