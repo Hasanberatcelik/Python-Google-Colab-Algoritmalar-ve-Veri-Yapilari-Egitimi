@@ -214,7 +214,7 @@
 
 ## ✅ Bölüm 23: Python Programlama Dili Üzerinde Hash Tabloları ve Hash Fonksiyonları
 
-## ✅ Bölüm 24: 
+## ✅ Bölüm 24: Python Programlama Dili Üzerinde Grafik Programlama
 
 ## ✅ Bölüm 25: Gelişmiş Veri Yapıları ve Optimizasyon Teknikleri
 
