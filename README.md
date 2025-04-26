@@ -166,7 +166,7 @@
 
 ## ✅ Bölüm 8: Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi
 
-## ✅ Bölüm 9. Python Programlama Dili Üzerinde Veri Yapıları (Dizi, Liste, Demet, Sözlük Yapıları) 
+## ✅ Bölüm 9: Python Programlama Dili Üzerinde Veri Yapıları (Dizi, Liste, Demet, Sözlük Yapıları) 
 
 #### 9.1. Python Programlama Dili Üzerinde Liste - Dizi Yapısı ve İşlemleri   
 
