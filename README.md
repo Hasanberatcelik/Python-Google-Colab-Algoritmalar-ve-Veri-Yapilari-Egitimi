@@ -80,7 +80,7 @@
 
 #### 1.8. Eğitime Nasıl Çalışmalıyız ve Ne kadar Zaman Ayırmalıyız?	   
 
-#### Bölüm 2. Kurulumlar ve Hazırlıklar    
+## ✅ Bölüm 2: Kurulumlar ve Hazırlıklar    
 
 #### 2.1. [Google Ekosistemi](https://github.com/acetinkaya/GoogleEkosistemi)      
 
