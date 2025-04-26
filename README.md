@@ -212,15 +212,13 @@
 
 #### [Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)](https://github.com/acetinkaya/VeriYapilari-ders14)
 
-## ✅ Bölüm 15-17: Python’da Veri İşleme ve Algoritma Geliştirme için 
-
-#### Bölüm 15: Python’da Veri İşleme ve Analiz Kütüphaneleri (Numpy, Matplotlib)
+## ✅ Bölüm 15: Python’da Veri İşleme ve Analiz Kütüphaneleri (Numpy, Matplotlib)
 
 #### 15.1. Numpy Kütüphanesi
 
 #### 15.2. Matplotlib Kütüphanesi
 
-#### Bölüm 16: Python’da Veri Görselleştirme İşlemleri (OpenCV)
+## ✅ Bölüm 16: Python’da Veri Görselleştirme İşlemleri (OpenCV)
 
 #### Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
 
