@@ -212,8 +212,7 @@
 
 #### [Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)](https://github.com/acetinkaya/VeriYapilari-ders14)
 
-## ✅ Bölüm 15-17: Python’da Veri İşleme ve Algoritma 
-
+## ✅ Bölüm 15-17: Python’da Veri İşleme ve Algoritma Geliştirme için 
 
 #### Bölüm 15: Python’da Veri İşleme ve Analiz Kütüphaneleri (Numpy, Matplotlib)
 
