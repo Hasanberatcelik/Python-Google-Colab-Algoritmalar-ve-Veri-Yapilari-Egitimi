@@ -202,13 +202,11 @@
 
 ---
 
-## ✅ Bölüm 12-14: Veri Bilimine Giriş, Python Kütüphaneleri, Dosya İşlemleri ve Veri Setleri
+## ✅ Bölüm 12: Veri Bilimine Giriş ve Python Kütüphaneleri (OS, Pandas) 
 
-#### Bölüm 12: Veri Bilimine Giriş ve Python Kütüphaneleri (OS, Pandas) 
+## ✅ Bölüm 13: Python Programlama Dili Üzerinde Dosya İşlemleri
 
-#### Bölüm 13: Python Programlama Dili Üzerinde Dosya İşlemleri
-
-#### [Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)](https://github.com/acetinkaya/VeriYapilari-ders14)
+## ✅ [Bölüm 14: Açık Kaynak Veri ve Veri Setleri (CSV, Excel, SQL, JSON Dosya Formatları)](https://github.com/acetinkaya/VeriYapilari-ders14)
 
 ## ✅ Bölüm 15: Python’da Veri İşleme ve Analiz Kütüphaneleri (Numpy, Matplotlib)
 
