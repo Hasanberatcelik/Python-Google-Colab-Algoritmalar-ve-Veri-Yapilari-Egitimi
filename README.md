@@ -184,9 +184,7 @@
 
 ---
 
-## ✅ Bölüm 9-11: Veri Koleksiyonları ve Fonksiyonlar 
-
-#### Bölüm 9. Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri   
+## ✅ Bölüm 9. Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri   
 
 #### 9.1. Python Programlama Dili Üzerinde Liste - Dizi Yapısı ve İşlemleri   
 
