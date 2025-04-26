@@ -196,11 +196,11 @@
 
 ---
 
-#### Bölüm 10. Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri  
+## ✅ Bölüm 10: Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri  
 
 ---
 
-#### Bölüm 11. Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
+## ✅ Bölüm 11: Python Programlama Dili Üzerinde Gömülü Fonksiyonlar   
 
 ---
 
