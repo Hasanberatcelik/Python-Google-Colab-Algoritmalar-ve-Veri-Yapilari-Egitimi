@@ -232,7 +232,7 @@
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
-## ✅ Bölüm 21-24: Algoritmalar ve Veri Yapısı 
+## ✅ Bölüm 20-2: Algoritmalar ve Veri Yapısı 
 
 #### Bölüm 21: Sıralama Algoritmaları
 
