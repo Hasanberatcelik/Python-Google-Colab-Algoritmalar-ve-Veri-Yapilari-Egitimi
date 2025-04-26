@@ -139,7 +139,7 @@
 
 ---
 
-#### Bölüm 5. [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
+## ✅ Bölüm 5. [Algoritma Hazırlığı](https://github.com/acetinkaya/VeriYapilari-ders5)    
 
 #### 5.1. Kullanılan Operatörlerlerin Tam Listesi   
 
