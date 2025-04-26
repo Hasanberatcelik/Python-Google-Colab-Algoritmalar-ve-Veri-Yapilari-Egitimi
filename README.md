@@ -166,13 +166,15 @@
 
 ## ✅ Bölüm 8: Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi
 
-## ✅ Bölüm 9: Python Programlama Dili Üzerinde Veri Yapıları (Dizi, Liste, Demet, Sözlük Yapıları) 
+## ✅ Bölüm 9: Python Programlama Dili Üzerinde Veri Yapıları (Dizi, Liste, Demet, Sözlük, Yığın, Kuyruk ve Bağlantılı Liste Yapıları) 
 
 #### 9.1. Python Programlama Dili Üzerinde Liste - Dizi Yapısı ve İşlemleri   
 
 #### 9.2. Python Programlama Dili Üzerinde Demet Yapısı ve İşlemleri  
 
 #### 9.3. Python Programlama Dili Üzerinde Sözlük Yapısı ve İşlemleri  
+
+#### 9.4. Yığın, Kuyruk ve Bağlantılı Liste Yapısı ve işlemleri
 
 ## ✅ Bölüm 10: Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri  
 
@@ -204,13 +206,13 @@
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
-## ✅ Bölüm 20: Python’da  ve Algoritmalar
+## ✅ Bölüm 20: Python Programlama Dili Üzerinde Sıralama Algoritmaları
 
-## ✅ Bölüm 21: Sıralama Algoritmaları
+## ✅ Bölüm 21: Python Programlama Dili Üzerinde Arama Algoritmaları
 
-## ✅ Bölüm 22: Arama Algoritmaları
+## ✅ Bölüm 22: Python Programlama Dili Üzerinde Graf Algoritmaları
 
-## ✅ Bölüm 23: Yığın, Kuyruk ve Bağlantılı Liste Yapısı
+## ✅ Bölüm 23: 
 
 ## ✅ Bölüm 24: Graf Algoritmaları
 
