@@ -220,13 +220,13 @@
 
 ## ✅ Bölüm 16: Python’da Görüntü İşleme Kütüphanesi (OpenCV)
 
-## ✅ Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
+## ✅ Bölüm 17: Python’da Makine Öğrenmesi Kütüphaneleri (Scikit-Learn, TensorFlow)
 
 #### 17.1. Scikit-Learn Kütüphanesi
 
 #### 17.2. TensorFlow Kütüphanesi
 
-## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme
+## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme İşlemi
 
 ## ✅ Bölüm 19-20: Algoritma ve Performans Analizi 
 
