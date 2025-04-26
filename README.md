@@ -218,9 +218,9 @@
 
 #### 15.2. Matplotlib Kütüphanesi
 
-## ✅ Bölüm 16: Python’da Veri Görselleştirme İşlemleri (OpenCV)
+## ✅ Bölüm 16: Python’da Görüntü İşleme Kütüphanesi (OpenCV)
 
-#### Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
+## ✅ Bölüm 17: Python’da Yapay Zeka: Makine Öğrenmesi ve Derin Öğrenme Kütüphaneleri (Scikit-Learn, TensorFlow)
 
 #### 17.1. Scikit-Learn Kütüphanesi
 
