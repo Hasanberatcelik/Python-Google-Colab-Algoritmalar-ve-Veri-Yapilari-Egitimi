@@ -212,9 +212,9 @@
 
 ## ✅ Bölüm 22: Python Programlama Dili Üzerinde Graf Algoritmaları
 
-## ✅ Bölüm 23: 
+## ✅ Bölüm 23: Python Programlama Dili Üzerinde Hash Tabloları ve Hash Fonksiyonları
 
-## ✅ Bölüm 24: Graf Algoritmaları
+## ✅ Bölüm 24: 
 
 ## ✅ Bölüm 25: Gelişmiş Veri Yapıları ve Optimizasyon Teknikleri
 
