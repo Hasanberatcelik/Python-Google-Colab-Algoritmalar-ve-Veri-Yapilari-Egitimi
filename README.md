@@ -147,9 +147,7 @@
 
 #### 5.3. Algoritma Hazırlama Süreci    
 
----
-
-#### Bölüm 6. [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)
+## ✅ Bölüm 6. [Akış Diyagramları](https://github.com/acetinkaya/VeriYapilari-ders6)
 
 #### 6.1. Akış Diyagramı Nedir? 
 
