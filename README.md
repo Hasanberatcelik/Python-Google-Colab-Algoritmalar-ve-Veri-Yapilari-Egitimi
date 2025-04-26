@@ -62,9 +62,7 @@
 
 ## ✅ DERS 0. Eğitim Tanıtımı
 
-## ✅ Bölüm 1-6: Programlamaya Giriş ve Algoritmik Düşünme
-
-#### Bölüm 1. Giriş
+## ✅ Bölüm 1. Programlamaya Giriş ve Algoritmik Düşünme
 
 #### 1.1. Eğitim İçeriği    
 
