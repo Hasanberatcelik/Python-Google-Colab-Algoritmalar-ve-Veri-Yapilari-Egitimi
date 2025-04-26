@@ -164,9 +164,9 @@
 
 #### 7.5. Python Programlama Dili Üzerinde Sıralı, Koşul & Döngü Örnekleri   
 
-## ✅ Bölüm 8:  Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi
+## ✅ Bölüm 8: Python Programlama Dili Üzerinde İstisnalar & Hata Yönetimi
 
-## ✅ Bölüm 9. Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri   
+## ✅ Bölüm 9. Python Programlama Dili Üzerinde Veri Yapıları (Dizi, Liste, Demet, Sözlük Yapıları) 
 
 #### 9.1. Python Programlama Dili Üzerinde Liste - Dizi Yapısı ve İşlemleri   
 
@@ -204,7 +204,7 @@
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
-## ✅ Bölüm 20: Python’da Veri Yapıları ve Algoritmalar
+## ✅ Bölüm 20: Python’da  ve Algoritmalar
 
 ## ✅ Bölüm 21: Sıralama Algoritmaları
 
