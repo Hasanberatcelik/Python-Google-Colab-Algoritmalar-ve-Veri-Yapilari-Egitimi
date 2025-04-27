@@ -92,12 +92,11 @@
 
 #### 2.5. Google Colab Kullanımı ve Ayarları
 
-#### 2.6. Google Colab Kullanımı ve Ayarları
+#### 2.6. Google Colab Üzerinde İlk Yazılım
 
+#### 2.7. Github 1    
 
-#### 2.6. Github 1-2-3      
-
-#### 2.7. linkedin      
+#### 2.8. linkedin      
 
 ## ✅ Bölüm 3: Python Programlama Dilindeki Değişkenler ve Veri Türleri    
 
