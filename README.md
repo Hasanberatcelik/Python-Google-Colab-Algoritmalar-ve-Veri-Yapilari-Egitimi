@@ -86,7 +86,7 @@
 
 #### 2.2. [Google Hesabı Oluşturma](https://github.com/acetinkaya/GoogleHesabiOlusturma)   
 
-#### 2.3. Google Colab, Google Drive ve Github Ayarları	       
+#### 2.3. Google Colab, Google Drive ve Github Önemi   
 
 #### 2.4. Google Drive  1-2
 
