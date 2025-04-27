@@ -94,13 +94,13 @@
 
 #### 2.6. Google Colab Üzerinde İlk Yazılım
 
-#### 2.7. Github 1    
+#### 2.7. Github -1    
 
-#### 2.7. Github 2
+#### 2.8. Github -2
 
-#### 2.7. Github 3    
+#### 2.9. Github -3    
 
-#### 2.8. linkedin      
+#### 2.10. linkedIn Kullanımı ve Önemi
 
 ## ✅ Bölüm 3: Python Programlama Dilindeki Değişkenler ve Veri Türleri    
 
