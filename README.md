@@ -88,7 +88,7 @@
 
 #### 2.3. Google Colab, Google Drive ve Github Önemi   
 
-#### 2.4. Google Colab Kurulumu 
+#### 2.4. Google Colab Kurulumu ve Ayarları - 1
 
 #### 2.5. Google Colab  1-2
 
