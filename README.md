@@ -92,6 +92,8 @@
 
 #### 2.5. Google Colab Kullanımı ve Ayarları
 
+#### 2.6. 
+
 #### 2.6. Github 1-2-3      
 
 #### 2.7. linkedin      
