@@ -92,7 +92,7 @@
 
 #### 2.5. Google Colab Kullanımı ve Ayarları
 
-#### 2.6. Google Colab 
+#### 2.6. Google Colab Kullanımı ve Ayarları
 
 
 #### 2.6. Github 1-2-3      
