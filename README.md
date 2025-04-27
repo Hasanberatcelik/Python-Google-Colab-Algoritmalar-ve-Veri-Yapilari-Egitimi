@@ -96,8 +96,9 @@
 
 #### 2.7. Github 1    
 
-#### 2.7. Github 1    
+#### 2.7. Github 2
 
+#### 2.7. Github 3    
 
 #### 2.8. linkedin      
 
