@@ -90,7 +90,7 @@
 
 #### 2.4. Google Colab Kurulumu ve Ayarları - 1
 
-#### 2.5. Google 
+#### 2.5. Google Colab 
 
 #### 2.6. Github 1-2-3      
 
