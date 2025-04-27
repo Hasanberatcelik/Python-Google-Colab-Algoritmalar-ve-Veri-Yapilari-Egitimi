@@ -96,6 +96,9 @@
 
 #### 2.7. Github 1    
 
+#### 2.7. Github 1    
+
+
 #### 2.8. linkedin      
 
 ## ✅ Bölüm 3: Python Programlama Dilindeki Değişkenler ve Veri Türleri    
