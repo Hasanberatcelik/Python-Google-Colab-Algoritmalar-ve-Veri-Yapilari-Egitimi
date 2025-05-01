@@ -210,6 +210,8 @@
 
 ## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme İşlemi
 
+#### 18.1. Api 
+
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
 ## ✅ Bölüm 20: Python Programlama Dili Üzerinde Sıralama Algoritmaları
