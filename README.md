@@ -214,6 +214,7 @@
 
 #### 18.2 Python ile TCMB Endpoint Kullanarak Veri Alma Uygulaması
 
+#### 18.3 Python ile OpenWeather API Kullanarak Hava Durumu Verisi Alma
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
