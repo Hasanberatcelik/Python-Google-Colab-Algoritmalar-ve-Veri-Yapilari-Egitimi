@@ -216,7 +216,7 @@
 
 #### 18.3 Python ile API Kullanarak OpenWeather Üzerinden Hava Durumu Verisi Alma Uygulaması
 
-## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
+## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu
 
 ## ✅ Bölüm 20: Python Programlama Dili Üzerinde Sıralama Algoritmaları
 
