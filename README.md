@@ -212,9 +212,9 @@
 
 #### 18.1. Api ve Endpoint Kavramı
 
-#### 18.2 Python ile Endpoint Kullanarak TCMB Üzerinden Veri Alma Uygulaması 
+#### 18.2 Python ile Endpoint Kullanarak TCMB Üzerinden Kur Verisi Alma Uygulaması 
 
-#### 18.3 Python ile OpenWeather API Kullanarak Hava Durumu Verisi Alma
+#### 18.3 Python ile API Kullanarak OpenWeather Üzerinden Hava Durumu Verisi Alma
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
