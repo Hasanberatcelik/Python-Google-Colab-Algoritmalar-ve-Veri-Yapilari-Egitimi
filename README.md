@@ -212,6 +212,7 @@
 
 #### 18.1. Api ve Endpoint Kavramı
 
+#### 18.2 Python ile TCMB Endpoint Kullanarak Veri Alma Uygulaması
 
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
