@@ -210,7 +210,9 @@
 
 ## ✅ Bölüm 18: Python API ve Endpoint Kullanarak Veri Elde Etme İşlemi
 
-#### 18.1. Api 
+#### 18.1. Api ve Endpoint Kavramı
+
+
 
 ## ✅ Bölüm 19: Algoritma ve Performans Analizi - Büyük O Notasyonu ve Algoritma Analizi 
 
